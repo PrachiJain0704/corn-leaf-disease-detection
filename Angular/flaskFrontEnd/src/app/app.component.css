@@ -1,0 +1,67 @@
+html,body{
+    min-height: 98vh;
+    padding: 0;
+    background-color: #039a9c; 
+    margin: 0 ;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+.custom-shape-divider-bottom-1674820170 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1674820170 svg {
+    position: relative;
+    display: block;
+    width: calc(113% + 1.3px);
+    height: 329px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1674820170 .shape-fill {
+    fill: #C5DFDF;
+}
+
+header{
+    background-color: rgb(226, 236, 236);
+    padding: 0;
+    border-top: 3px solid #027878;
+    border-bottom: 3px solid #027878;
+}
+.container1{
+    margin: 0 auto;
+    display: center;
+    justify-content: space-between;
+}
+p.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: #7e6a59;
+    justify-content: center;
+    align-items: center;
+}
+p.content{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+   
+    justify-content: center;
+    align-items: center;
+}
+.file{
+   
+   
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
