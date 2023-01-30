@@ -1,0 +1,1 @@
+This Project is to identify corn leaf diseases using angular and VGG 16 along with flask.
